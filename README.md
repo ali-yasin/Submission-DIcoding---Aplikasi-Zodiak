@@ -6,7 +6,7 @@ Submission Checklists
 - [x] Menampilkan gambar dan informasi pada halaman detail.
 - [x] Terdapat halaman about.
 
-<a href="https://raw.githubusercontent.com/ali-yasin/SubmissionDIcoding-AplikasiZodiak/master/apk/Nama%20Zodiak.apk" rel="nofollow"><img src="https://img.shields.io/github/downloads/ali-yasin/SubmissionDIcoding-AplikasiZodiak/total?style=plastic" alt="Downloads Apk" data-canonical-src="https://img.shields.io/github/downloads/ali-yasin/SubmissionDIcoding-AplikasiZodiak/total?style=plastic" style="max-width:100%;"></a>
+<h6>Apk <a href="https://raw.githubusercontent.com/ali-yasin/SubmissionDIcoding-AplikasiZodiak/master/apk/Nama%20Zodiak.apk" rel="nofollow"><img src="https://img.shields.io/github/downloads/ali-yasin/SubmissionDIcoding-AplikasiZodiak/total?style=plastic" alt="Downloads Apk" data-canonical-src="https://img.shields.io/github/downloads/ali-yasin/SubmissionDIcoding-AplikasiZodiak/total?style=plastic" style="max-width:100%;"></a></h6>
 
 <a href="./images/SplashScreen.png"><img src="./images/SplashScreen.png" width="30%" /></a>
 <a href="./images/Home.png"><img src="./images/Home.png" width="30%" /></a>
